@@ -1,7 +1,7 @@
 {
-  "version": "3.1.71",
-  "package": "releases/Contraplano_v3.1.71.zip",
-  "sha256": "d2402bce900dc71a141d6692f7ea3bda9ba469d9a5a9bb03ebb345aa800d8f83",
+  "version": "3.1.74",
+  "package": "releases/Contraplano_v3.1.74.zip",
+  "sha256": "ad21674c1fdac5466a8a8d0f05bbd3cc54f0c4d1231c4426b50eb3cdb142e0b5",
   "installer": {
     "version": "3.1.59",
     "file": "Contraplano_Instalador.exe",
